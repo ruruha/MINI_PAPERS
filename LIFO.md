@@ -71,4 +71,4 @@ Axiomatic definition of LIFO and proof that stack satisfies LIFO
 
 5. I'll do later
     Define state of Stack, and Stack satisfied LIFO using state_preservation concept of stack.
-    My first commit, this seems too trivial and i have no idea how far i could do this... 
+    My first commit, this seems too trivial and i have no idea how far i could do this... ㅠㅠ
