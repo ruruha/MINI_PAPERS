@@ -66,3 +66,8 @@ int main(){
 }
 // It's too difficult to re-making, how the hell junior me made this?
 // even he made this with python, not C...
+
+
+// But next question occurs:
+// the range and areas are bounded: 0 ~ 90 and 0 ~ 1
+// Does this necessarilly use float? Can it be implemented with int?
